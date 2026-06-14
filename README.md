@@ -1,5 +1,6 @@
-# Typing Animation :
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+and+Data+Engineering+student;Machine+Learning+Enthusiast;Data+Science+Learner;DSA+in+C%2B%2B&center=true&width=500&height=50)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Engineering+Student;Machine+Learning+Learner;Aspiring+Data+Scientist;DSA+in+C%2B%2B&center=true&width=550&height=50">
+</p>
 
 # 👋 Hi, I'm Apoorva Shree
 
