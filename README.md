@@ -1,3 +1,6 @@
+# Typing Animation :
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+and+Data+Engineering+student;Machine+Learning+Enthusiast;Data+Science+Learner;DSA+in+C%2B%2B&center=true&width=500&height=50)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Apoorva Shree
 
 ## 🎓 AI and Data Engineering Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast
@@ -55,6 +58,18 @@ An Exploratory Data Analysis project built using Python and data visualization l
 * VS Code
 
 ---
+
+## Techstacks:
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🎯 Current Goals
 
