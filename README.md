@@ -41,25 +41,6 @@ An Exploratory Data Analysis project built using Python and data visualization l
 
 ---
 
-## 📚 Libraries & Frameworks
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-
----
-
-## 🛠️ Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
-
----
-
 ## Techstacks:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -71,6 +52,15 @@ An Exploratory Data Analysis project built using Python and data visualization l
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 🛠️ Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+---
 
 ## 🎯 Current Goals
 
