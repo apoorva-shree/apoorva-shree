@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Apoorva Shree
 
-## 🎓 AI and Data Engineering Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast
+## 🎓 AI and Data Engineering Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | DSA in C++ 
 
 I'm a AI and Data engineering student exploring Data Science and Machine Learning while strengthening my problem-solving skills through Data Structures & Algorithms.
 
