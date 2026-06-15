@@ -82,7 +82,7 @@ An Exploratory Data Analysis project built using Python and data visualization l
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/apoorva-shree-00ab25383
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/apoorva-shree
 * Leetcode: https://leetcode.com/u/Apoorva_shree/
 
 ---
