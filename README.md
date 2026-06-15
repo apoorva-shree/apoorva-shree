@@ -65,7 +65,7 @@ An Exploratory Data Analysis project built using Python and data visualization l
 ## 🎯 Current Goals
 
 * Build strong Machine Learning fundamentals
-* Complete multiple end-to-end Data Science projects
+* Build a portfolio of end-to-end Data Science and Machine Learning projects
 * Improve problem-solving through LeetCode
 * Secure a Data Science / Machine Learning Internship
 
