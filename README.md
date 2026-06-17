@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Engineering+Student;Machine+Learning+Learner;Aspiring+Data+Scientist;DSA+in+C%2B%2B&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Engineering+Student;Machine+Learning+Learner;Aspiring+AI+Engineer;DSA+in+C%2B%2B&center=true&width=550&height=50">
 </p>
 
 # 👋 Hi, I'm Apoorva Shree
 
-## 🎓 AI and Data Engineering Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | DSA in C++ 
+## 🎓 AI and Data Engineering Student | 📊 Aspiring AI Engineer | 🤖 Machine Learning Enthusiast | DSA in C++ 
 
 I'm a AI and Data engineering student exploring Data Science and Machine Learning while strengthening my problem-solving skills through Data Structures & Algorithms.
 
