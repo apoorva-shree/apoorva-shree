@@ -23,6 +23,19 @@ An Exploratory Data Analysis project built using Python and data visualization l
 * Popularity and rating insights
 * Data visualizations and trend discovery
 
+### 📦 Customer Churn Prediction
+
+Machine Learning project for predicting customer churn using Python and Scikit-Learn, with a focus on business insights and model evaluation.
+
+**Highlights**
+
+• Data preprocessing and feature engineering  
+• Exploratory Data Analysis (EDA)  
+• Logistic Regression and Random Forest models  
+• Confusion Matrix, Classification Report, ROC Curve & AUC Score  
+• Feature importance analysis  
+• Business recommendations for customer retention
+
 ---
 
 ## 🌱 Currently Learning
