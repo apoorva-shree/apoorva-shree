@@ -12,6 +12,21 @@ I'm a AI and Data engineering student exploring Data Science and Machine Learnin
 
 ## 🚀 Current Projects
 
+### 📦 Customer Churn Prediction
+
+Machine Learning project for predicting customer churn using Python and Scikit-Learn, with a focus on business insights and model evaluation.
+
+**Highlights**
+
+* End-to-end machine learning pipeline for customer churn prediction.
+* Data cleaning, feature engineering, and exploratory data analysis (EDA).
+* Comparative modeling using Logistic Regression and Random Forest.
+* Model evaluation with ROC-AUC, Precision, Recall, and Confusion Matrix.
+* Feature importance analysis to identify key churn drivers.
+* Business recommendations for improving customer retention strategies.
+* Deployment of an interactive prediction application for real-world use.
+
+
 ### 🎬 Netflix Data Analysis
 
 An Exploratory Data Analysis project built using Python and data visualization libraries.
@@ -22,19 +37,6 @@ An Exploratory Data Analysis project built using Python and data visualization l
 * Genre-based analysis
 * Popularity and rating insights
 * Data visualizations and trend discovery
-
-### 📦 Customer Churn Prediction
-
-Machine Learning project for predicting customer churn using Python and Scikit-Learn, with a focus on business insights and model evaluation.
-
-**Highlights**
-
-• Data preprocessing and feature engineering  
-• Exploratory Data Analysis (EDA)  
-• Logistic Regression and Random Forest models  
-• Confusion Matrix, Classification Report, ROC Curve & AUC Score  
-• Feature importance analysis  
-• Business recommendations for customer retention
 
 ---
 
